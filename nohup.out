@@ -1,0 +1,17 @@
+Server is live at port 3000 ...
+request >>
+{ name: 'Abhishek Dwivedi',
+  email: 'abhishekkumardwivedi@gmail.com',
+  gender: 'male' }
+{}
+Tue Mar 28 2017 08:40:54 GMT+0000 (UTC)
+----------
+[90mPOST /api/user/register/f/1161005570589588 [33m404 [90m31ms[0m
+request >>
+{ name: 'Abhishek Dwivedi',
+  email: 'abhishekkumardwivedi@gmail.com',
+  gender: 'male' }
+{}
+Tue Mar 28 2017 08:43:40 GMT+0000 (UTC)
+----------
+[90mPOST /api/user/register/f/1161005570589588 [33m404 [90m2ms[0m
